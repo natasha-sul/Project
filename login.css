@@ -1,0 +1,98 @@
+.main_menu{
+	width: 100%;	
+}
+
+.logform{ 
+margin-left: 15%;
+padding-top: 2%;
+font-size: 14pt; 
+border: none; 
+font-family: monospace;
+} 
+
+.cancel{ 
+
+padding: 10px 30px 10px 30px; 
+margin-bottom: 4%; 
+border: 1px solid black;
+color: black; 
+font-size: 17px; 
+font-family:monospace; 
+margin-left: 15%; 
+} 
+
+.cancel:hover{ 
+
+color: black; 
+border: 2px solid black; 
+} 
+.knopka{ 
+background-color: #111110; 
+font-size: 20px; 
+
+font-family: monospace; 
+margin-left: 15%; 
+padding: 9px 39px 9px 40px; 
+margin-top: 4%; 
+margin-bottom: 4%;
+border: 2px solid black; 
+float:center;
+} 
+.knopka:hover{ 
+
+color: black; 
+border: 2px solid black; 
+}
+
+.half_background{
+    background-image: url(transparent_darker.png);
+    width: 22.5%;
+    margin: 10% auto; 
+}
+.nap{
+   margin-bottom: 4%;
+   color: #dacaa5; 
+   margin-top: 4%;
+   
+}
+.napys{
+    color: #dacaa5;
+    font-size: 18pt;
+    font-family: monospace;
+    margin-left: 16%;
+    margin-top: 7%;
+    margin-bottom: -4%;
+}
+
+#email{
+    padding-left: 8%;
+}
+#password{
+    padding-left: 8%;
+}
+.footer{
+    width: 100%;
+    padding-bottom: 3%;
+    clear: both;
+    background-color: black;
+    color: #c47772;
+}
+.backlogo{
+    background: transparent;
+	background-image: url(4_Grayscale_logo_on_transparent_212x71.png);
+	background-size: 100%;
+	width: 20%;
+    padding-bottom: 7%;
+    margin: 0.75% auto;
+    margin-bottom: 2%;
+}
+.heart{
+    margin: 5% 45% 0 41.5%;
+    color: #9d9d9d;
+    font-family: cursive;
+    font-size: 12pt;
+    width: 17%;
+    padding-bottom: 0.5%;
+    background: black; 
+    display: inline-block;
+}
